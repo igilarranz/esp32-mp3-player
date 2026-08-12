@@ -4,7 +4,13 @@ A handheld MP3 player I'm building on an ESP32-S3. It reads MP3s off a microSD c
 
 **Work in progress.** Audio playback works and the display works, but they live in separate sketches right now. Getting them into one firmware with an actual UI is what I'm working on next.
 
-![Display bring-up](hardware-photo.jpg)
+![The full setup: TFT, ESP32-S3, MAX98357A amp, and speaker](hardware-photo.jpg)
+
+## Audio demo
+
+Playback from the SD card through the amp and speaker:
+
+<!-- drag demo.mp4 here -->
 
 ## Hardware
 
